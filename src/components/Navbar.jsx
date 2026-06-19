@@ -16,11 +16,17 @@ export default function Navbar() {
     <nav id="nav">
       <a href="/" className="logo" onClick={() => setOpen(false)}>
         <div className="logo-images-wrapper">
-          <img src="/home.jpeg" alt="BharatJobs.AI Icon" className="logo-icon-img" />
+          <div className="logo-icon-container">
+            <img src="/new_home.png" alt="BharatJobs.AI Icon" className="logo-icon-img-new" />
+          </div>
           <div className="logo-text-wrapper">
             <div className="logo-main-texts">
-              <img src="/bharathjobs.jpeg" alt="BharatJobs" className="logo-bharatjobs-img" />
-              <img src="/ai.jpeg" alt=".AI" className="logo-ai-img" />
+              <div className="text-blend-wrapper bharatjobs-blend">
+                <img src="/bharathjobs.jpeg" alt="BharatJobs" className="logo-bharatjobs-img" />
+              </div>
+              <div className="text-blend-wrapper ai-blend">
+                <img src="/ai.jpeg" alt=".AI" className="logo-ai-img" />
+              </div>
             </div>
             <div className="noise-patch"></div>
             <div className="logo-sub">EST. 2026 &bull; BHARAT</div>

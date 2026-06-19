@@ -18,8 +18,8 @@ export default function FinalCTA() {
         </h2>
         <p>It takes less than three minutes to begin. No credit card. No commitment. No friction.</p>
         <div className="cta-btns">
-          <a href="/" className="btn btn-cyan btn-lg">I&apos;m a Job Seeker — Free →</a>
-          <a href="/" className="btn btn-primary btn-lg">I&apos;m an Employer — ₹250 →</a>
+          <a href="https://app.bharatjobs.ai/" target="_blank" rel="noopener noreferrer" className="btn btn-cyan btn-lg">I&apos;m a Job Seeker — Free →</a>
+          <a href="https://app.bharatjobs.ai/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg">I&apos;m an Employer — ₹250 →</a>
         </div>
         <p className="cta-foot">Powered by Groupin.app · A Groupin Solutions Pvt. Ltd. initiative</p>
       </div>

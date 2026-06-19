@@ -66,7 +66,7 @@ export default function Roles() {
                   <li key={item}><span>✓</span>{item}</li>
                 ))}
               </ul>
-              <a href="/" className="role-cta">{role.cta}</a>
+              <a href="https://app.bharatjobs.ai/" target="_blank" rel="noopener noreferrer" className="role-cta">{role.cta}</a>
             </article>
           ))}
         </div>

@@ -44,7 +44,7 @@ export default function GettingStarted() {
                 </div>
               </div>
             </div>
-            <a href="/" className="btn btn-cyan btn-lg">Get Started — Free →</a>
+            <a href="https://app.bharatjobs.ai/" target="_blank" rel="noopener noreferrer" className="btn btn-cyan btn-lg">Get Started — Free →</a>
           </article>
 
           <article className="start-card sky">
@@ -78,7 +78,7 @@ export default function GettingStarted() {
                 </div>
               </div>
             </div>
-            <a href="/" className="btn btn-primary btn-lg">Post a Job — ₹250 →</a>
+            <a href="https://app.bharatjobs.ai/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg">Post a Job — ₹250 →</a>
           </article>
         </div>
       </div>

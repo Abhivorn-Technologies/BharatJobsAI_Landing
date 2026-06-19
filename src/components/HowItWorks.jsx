@@ -91,7 +91,7 @@ export default function HowItWorks() {
               <h4>{story.ctaTitle}</h4>
               <p>{story.ctaText}</p>
             </div>
-            <a href="/" className="btn btn-primary btn-lg">{story.ctaBtn} →</a>
+            <a href="https://app.bharatjobs.ai/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg">{story.ctaBtn} →</a>
           </div>
         </div>
       </div>

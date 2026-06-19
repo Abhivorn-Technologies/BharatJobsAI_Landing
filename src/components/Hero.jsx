@@ -28,10 +28,10 @@ export default function Hero() {
             <strong>One tap to apply.</strong> No portals. No logins. No effort.
           </p>
           <div className="hero-ctas">
-            <a href="/" className="btn btn-primary btn-lg btn-gradient-border">
+            <a href="#story" className="btn btn-primary btn-lg btn-gradient-border">
               Start Your Career Journey →
             </a>
-            <a href="/" className="btn btn-link">
+            <a href="#concept" className="btn btn-link">
               See how it works ↓
             </a>
           </div>

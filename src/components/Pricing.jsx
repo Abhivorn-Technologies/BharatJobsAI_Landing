@@ -43,7 +43,7 @@ export default function Pricing() {
           </div>
           <div className="pcard-bot">
             <p><strong>Free for job seekers — forever.</strong> No hidden costs, no premium tiers, no upsells.</p>
-            <a href="/" className="btn btn-primary btn-lg">Post Your First Job →</a>
+            <a href="https://app.bharatjobs.ai/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg">Post Your First Job →</a>
           </div>
         </div>
       </div>
